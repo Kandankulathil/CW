@@ -325,14 +325,20 @@ footer {
     align-items: center;
     width: 31%;
     height: auto;
-    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 0.1%;
+    /* padding-bottom: 1%; */
+    /* padding-bottom: 1%;
     padding-left: 1.2%;
-    padding-right: 0.4%;
+    padding-right: 0.4%; */
     /* align-content: first baseline;
     object-fit: cover;
     padding-bottom: 2%; */ 
 
 }
+/* #event_photo4 img{
+    width: 98%;;
+} */
 i {
     font-size: 24px;
     color: #E1306C; /* Instagram's official color */
